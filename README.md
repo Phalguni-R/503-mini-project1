@@ -15,6 +15,6 @@ This project explores how remote work has reshaped housing markets across urban,
 Tools Used:
   `Python (Pandas, Matplotlib, Seaborn)`
 
-Jupyter Notebook
+Google Colab Notebook
 
 CSV/Excel datasets
